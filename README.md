@@ -1,4 +1,4 @@
-# Desafio 02: Conceitos do ReactJS
+# Desafio 03: Conceitos do ReactJS
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no ReactJS!
 
